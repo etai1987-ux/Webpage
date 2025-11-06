@@ -1,0 +1,24 @@
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[main]]
+  name = "For Sale"
+  url = "/shop/"
+  weight = 3
+
+[[main]]
+  name = "Portfolio"
+  url = "/portfolio/"
+  weight = 4
+
+[[main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
