@@ -8,8 +8,8 @@ Explore my portfolio of custom furniture projects. Each piece is crafted with ca
 <!-- Example gallery -->
 ### Recent Projects
 
-- Custom Kitchen Cabinets (2025)
-- Built-in Library Shelves (2024)
-- Rustic Dining Table (2024)
+- Cricket Bat and Ball Display Case (2025)
+- Tiger Tray (2025)
+- Brown Oak Live Edge Accent Table (2025)
 
 *Photos and project stories coming soon.*
