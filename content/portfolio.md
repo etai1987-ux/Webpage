@@ -1,7 +1,6 @@
 +++
 title = 'Portfolio'
 date = 2025-11-03T11:56:06Z
-draft = true
 +++
 Explore my portfolio of custom furniture projects. Each piece is crafted with care and attention to detail.
 
