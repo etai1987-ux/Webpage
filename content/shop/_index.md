@@ -2,7 +2,7 @@
 title = 'Shop'
 date = 2025-11-03T11:56:06Z
 +++
-Welcome to our furniture shop! Browse handcrafted cabinets, tables, and more below. Contact us for custom orders.
+Welcome to my furniture shop. The items belwo are presently available to purchase. If you wish to see more of my repertouir please visit the 'Portfolio' section. If you would like me to make you something else, please feel free to contact me for custom orders.
 
 ## For Sale
 
