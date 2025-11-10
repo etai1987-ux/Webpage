@@ -13,3 +13,5 @@ Explore my portfolio of custom furniture projects. Each piece is crafted with ca
 <img src="/TigerTray1.jpg" alt="Tiger Tray" style="width:33%;border-radius:8px;margin-bottom:1rem;"> 
 - Brown Oak Live Edge Accent Table (2025)
 <img src="/brownoakliveedge.jpg" alt="Brown Oak Live Edge Accent Table" style="width:33%;border-radius:8px;margin-bottom:1rem;">
+  <img src="/brownoakliveedge1.jpg" alt="Brown Oak Live Edge Accent Table 2" style="width:32%;border-radius:8px;margin-bottom:1rem;margin-right:1%;">
+  <img src="/brownoakliveedge2.jpg" alt="Brown Oak Live Edge Accent Table 3" style="width:32%;border-radius:8px;margin-bottom:1rem;">
