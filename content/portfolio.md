@@ -8,9 +8,9 @@ Explore my portfolio of custom furniture projects. Each piece is crafted with ca
 ### Recent Projects
 
 - Cricket Bat and Ball Display Case (2025)
-  <img src="/cricket-case1.jpg" alt="Cricket Bat and Ball Display Case 1" style="width:23%;display:inline-block;border-radius:8px;margin-bottom:1rem;margin-right:1%;">
-  <img src="/cricket-case2.jpg" alt="Cricket Bat and Ball Display Case 2" style="width:23%;display:inline-block;border-radius:8px;margin-bottom:1rem;margin-right:1%;">
-  <img src="/cricket-case3.jpg" alt="Cricket Bat and Ball Display Case 3" style="width:23%;display:inline-block;border-radius:8px;margin-bottom:1rem;">
+  <img src="/cricket-case1.jpg" alt="Cricket Bat and Ball Display Case 1" style="width:23%;display:inline-block;border-radius:8px;margin-bottom:1rem;margin-right:2%;">
+  <img src="/cricket-case2.jpg" alt="Cricket Bat and Ball Display Case 2" style="width:23%;display:inline-block;border-radius:8px;margin-bottom:1rem;margin-right:2%;">
+  <img src="/cricket-case3.jpg" alt="Cricket Bat and Ball Display Case 3" style="width:23%;display:inline-block">
 - Tiger Tray (2025)
 <img src="/TigerTray1.jpg" alt="Tiger Tray" style="width:33%;border-radius:8px;margin-bottom:1rem;"> 
 <img src="/tigertray2.jpg" alt="Tiger Tray" style="width:33%;border-radius:8px;margin-bottom:1rem;">
