@@ -14,7 +14,7 @@ body {
   padding: 0;
 }
 nav a {
-  color: #520400;
+  color: #520400 !important;
   font-family: 'Libre Caslon Text', serif;
   font-weight: 700;
   font-size: 1.125rem;
