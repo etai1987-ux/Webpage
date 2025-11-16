@@ -23,7 +23,7 @@ header {
 }
 header h1 {
   font-size: 3.125rem;
-  color: #2a3a4a;
+  color: #2d1400 !important;
   margin: 0;
   font-family: 'Libre Caslon Text', 'EB Garamond', 'Caslon', serif;
 }
