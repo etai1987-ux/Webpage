@@ -2,9 +2,11 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <div class="card">
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      {{ .Summary }}
-    </div>
+    {{ if and (ne .Title "Portfolio") (ne .Title "Contact") }}
+      <div class="card">
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        {{ .Summary }}
+      </div>
+    {{ end }}
   {{ end }}
 {{ end }}
