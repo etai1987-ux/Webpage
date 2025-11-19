@@ -79,7 +79,7 @@ footer {
   margin-top: 2rem;
 }
 button, .btn {
-  background: #0077ff;
+  background: #515A47 !important;
   color: #fff;
   border: none;
   border-radius: 6px;
@@ -89,7 +89,7 @@ button, .btn {
   transition: background 0.2s;
 }
 button:hover, .btn:hover {
-  background: #0055aa;
+    background: #515A47 !important;
 }
 img {
   max-width: 100%;
