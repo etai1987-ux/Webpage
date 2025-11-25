@@ -4,7 +4,7 @@
   <p>Handcrafted furniture and bespoke cabinetry</p>
   {{ range site.RegularPages }}
       <p>DEBUG: {{ .Title }}</p>
-    {{ if and (ne .Title "Portfolio") (ne .Title "Contact")(ne .Title "About") }}
+    {{ if and (ne .Title "Portfolio") (ne .Title "Contact") (ne .Title "About") }}
       <div class="card">
         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
         {{ .Summary }}
