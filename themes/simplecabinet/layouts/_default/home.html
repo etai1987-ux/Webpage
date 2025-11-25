@@ -3,7 +3,7 @@
   <h1>EVEN-ZAHAV FURNITURE</h1>
   <p>Handcrafted furniture and bespoke cabinetry</p>
   {{ range site.RegularPages }}
-    {{ if and (ne .Title "Portfolio") (ne .Title "Contact") }}
+    {{ if and (ne .Title "Portfolio") (ne .Title "Contact")(ne .Title "About") }}
       <div class="card">
         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
         {{ .Summary }}
