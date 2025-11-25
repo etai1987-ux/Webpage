@@ -113,6 +113,8 @@ img {
 p {
   line-height: 1.7;
 }
+a[href="/"],
+a[href="/shop/"],
 a[href="/contact/"],
 a[href="/about/"],
 a[href="/portfolio/"] {
