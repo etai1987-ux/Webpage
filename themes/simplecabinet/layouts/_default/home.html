@@ -1,7 +1,15 @@
 {{ define "main" }}
   <img src="/header.jpg" alt="Cabinet Maker Header" style="width:100%;max-height:320px;object-fit:cover;border-radius:12px;margin-bottom:2rem;">
   <h1>EVEN-ZAHAV FURNITURE</h1>
-  <p>Handcrafted furniture and bespoke cabinetry</p>
+  <p>Heirloom furniture and bespoke cabinetry</p>
+
+  <div class="card">
+    <h2>Working with nature to craft one of a kind pieces</h2>
+    <p>
+      I design and create furniture in a small workshop in Cambridge, UK. I use local artisenal millers to obtain endemic air dried woods, felled within a 50 mile radius almost exclusively. The wood is the star of the show, being naturally grown and dried rather than coming from plantations. My work celebrates its resultant innate full range of character. I make pieces prospectively and selectively for commission. Feel free to get in touch if you would like me to create something unique for you.
+    </p>
+  </div>
+
   {{ range site.RegularPages }}
     {{ if and (ne .Title "Portfolio") (ne .Title "Contact") (ne .Title "About") }}
       <div class="card">
