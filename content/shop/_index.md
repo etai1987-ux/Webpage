@@ -35,4 +35,17 @@ Constructed from solid Oak (Quercus robur). The hinges and hasp replicate a diff
 Overall dimensions: 433 mm width x 120 mm depth x 148 mm height.</p>
 </div>
 
+<div class="card">
+  <h2>Niddy Noddy (Oseberg ship burial reproduction)</h2>
+  <img src="/images/NiddyNoddy1.jpg" alt="niddy noddy carving" style="width:32%;display:inline-block;margin-right:1rem;vertical-align:top;">
+  <img src="/images/NiddyNoddy2.jpg" alt="niddy noddy front" style="width:32%;display:inline-block;margin-right:1rem;vertical-align:top;">
+  <img src="/images/NiddyNoddy3.jpg" alt="niddy noddy angled" style="width:32%;display:inline-block;vertical-align:top;">
+  <p><strong>Price:</strong> £480 GBP</p>
+  <p>
+    This oddity is called a 'niddy noddy', which is a tool used for manually winding yarn in artisanal/ancient textile production. It is a near-exact reproduction of an archaeological find (1904_173a) from the Oseberg ship burial 843 AD of two women adorned with opulent goods, of which this was one. It was made in Beech, as in the original, and finished with Linseed oil, which again is probably what would have been used, and the handle's tenons glued into the arms' mortices with animal hide glue. It is the second of two such items I have made, the first being comissioned by an archeologist specialising in Viking era textile production, teaching students how to authentically reproduce them.
+    
+    Although modern niddy noddy's are still produced, ther arms are perpendicular rather than coplanar, making them unsuitable for accurate recreation purposes. This second one was roughed out at the same time as the original and is now available here for sale to enthusiasts of the period and artisanal textile producers.
+  </p>
+</div>
+
 *Contact me for purchase details and commission requests.*
