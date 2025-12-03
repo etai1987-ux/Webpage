@@ -42,10 +42,10 @@ Overall dimensions: 433 mm width x 120 mm depth x 148 mm height.</p>
   <img src="/images/NiddyNoddy3.jpg" alt="niddy noddy angled" style="width:30%;display:inline-block;vertical-align:top;">
   <p><strong>Price:</strong> £480 GBP</p>
   <p>
-    This oddity is called a 'niddy noddy', which is a tool used for manually winding yarn in artisanal/ancient textile production. It is a near-exact reproduction of an archaeological find (1904_173a) from the Oseberg ship burial 843 AD of two women adorned with opulent goods, of which this was one. It was made in Beech, as in the original, and finished with Linseed oil, which again is probably what would have been used, and the handle's tenons glued into the arms' mortices with animal hide glue. It is the second of two such items I have made, the first being comissioned by an archeologist specialising in Viking era textile production, teaching students how to authentically reproduce them.
+    This oddity is called a 'niddy noddy', which is a tool used for manually winding yarn in artisanal/ancient textile production. It is a near-exact reproduction of an archaeological find (1904_173a) from the Oseberg ship burial 843 AD of two women adorned with opulent goods, of which this was one. It was made in Beech, as in the original. It is finished with Linseed oil, which again is a likely finish, and the handle's tenons is glued into the arms' mortices with animal hide glue. It is the second of two such items I have made, the first being comissioned by an archeologist specialising in Viking era textile production, teaching students how to authentically reproduce them.
     </p>
     <p>
-    Although modern niddy noddy's are still produced, ther arms are perpendicular rather than coplanar, making them unsuitable for accurate recreation purposes. This second one was roughed out at the same time as the original and is now available here for sale to enthusiasts of the period and artisanal textile producers.
+    Although modern niddy noddy's are still produced, their arms are perpendicular rather than coplanar, making them unsuitable for accurate recreation purposes. This second one was roughed out at the same time as the original and is now available here for sale to enthusiasts of the period and artisanal textile producers.
   </p>
 </div>
 
