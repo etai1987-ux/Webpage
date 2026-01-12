@@ -101,27 +101,47 @@ p {
 }
 @media (max-width: 800px) {
   .container {
-    max-width: 100%;
+    max-width: 100vw;
     padding: 0.5rem;
   }
   header {
+    width: 100vw;
+    min-width: 100vw;
+    box-sizing: border-box;
     padding: 1rem 0 0.5rem 0;
+    margin-left: calc(-1 * ((100vw - 100%) / 2)); /* full bleed */
   }
   header h1 {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
   }
+  nav {
+    width: 100vw;
+    min-width: 100vw;
+    box-sizing: border-box;
+    background: #fff;
+    margin-left: calc(-1 * ((100vw - 100%) / 2));
+    overflow-x: auto;
+  }
   nav ul {
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0;
     align-items: center;
     margin: 0.5rem 0 0 0;
+    width: 100%;
+    padding: 0;
   }
   nav a {
     font-size: 1rem;
-    padding: 0.5rem 0.7rem;
-    width: 100%;
+    padding: 0.7rem 0;
+    width: 100vw;
     text-align: center;
+    border-bottom: 1px solid #eee;
+    box-sizing: border-box;
+    margin: 0;
+  }
+  nav ul li:last-child a {
+    border-bottom: none;
   }
   .card {
     padding: 0.7rem;
